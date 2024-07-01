@@ -30,12 +30,13 @@ https://github.com/Dim1976/Public.git
 
 ### Задание 2
 
-`Приведите ответ в свободной форме........`
-
 https://github.com/Dim1976/Public.git
 
 ### Задание 3
 
 https://github.com/Dim1976/Public.git
-https://github.com/Dim1976/git_main-8-1/assets/154597759/32cdecda-8012-4a59-8837-aa69e494cf3f
+
+https://github.com/Dim1976/Public/network
+
+https://github.com/Dim1976/git_main-8-1/assets/154597759/728a9f24-982b-45fe-ae8b-4b78a5c47bc1
 
